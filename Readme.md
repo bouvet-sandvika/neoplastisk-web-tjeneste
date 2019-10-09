@@ -1,7 +1,5 @@
 # Oppgavesett 2
 
-### Informasjon
-
 ### Oppgaver
 
 #### Oppgave 2.1 Konfigurer REST-tjenesten
