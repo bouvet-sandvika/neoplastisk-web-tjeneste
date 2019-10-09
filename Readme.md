@@ -40,9 +40,6 @@ Naviger til mappen og gjør følgende:
 * Bygg applikasjonen `npm run-script build`
 * Start applikasjonen i produksjonsmodus ved å kjøre `npm run-script prod`.
 
-Følg prosedyrene
-
-* Start den REST-tjenesten 
 
 
 
